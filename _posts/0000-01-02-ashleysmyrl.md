@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+You are the bomb.com
 Use the left arrow to go back!
